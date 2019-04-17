@@ -5,6 +5,8 @@
 # unless you shout it (type in all capitals).
 
 def speak_to_grandma(phrase)
+  binding.pry
+  
   if phrase.upcase == phrase
     puts "NO, NOT SINCE 1938!"
   else if phrase == "I LOVE YOU GRANDMA!"
