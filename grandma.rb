@@ -15,7 +15,7 @@ def speak_to_grandma(phrase)
   end
 end
 
-speak_to_grandma("I LOVE YOU GRANDMA!")
+speak_to_grandma("WONDERFUL")
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
