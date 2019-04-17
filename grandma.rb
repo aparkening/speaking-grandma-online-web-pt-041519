@@ -6,8 +6,6 @@ require 'pry'
 # unless you shout it (type in all capitals).
 
 def speak_to_grandma(phrase)
-  binding.pry
-  
   if phrase == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   elsif phrase.upcase == phrase
